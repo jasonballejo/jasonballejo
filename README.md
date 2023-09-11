@@ -1,11 +1,15 @@
 ### Hi, my name is Jason Ballejo!
+- 👨🏻‍💻 Currently learning more to code daily
+- 🥅 2023 end of year goal: finish the year with a developer job!
+- 👯 Looking to collaborate with other developers to grow and learn
 
 <div align="left">
   <a href="https://github.com/jasonballejo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasonballejo"/> 
 </div>
 
-<div style="display: inline_block"><br>
+### Languages and Tools:
+<div style="display: inline_block">
   <img align="center" alt="Jay-HTML" height="30" width="40" src="https://cdn.simpleicons.org/html5">
   <img align="center" alt="Jay-CSS" height="30" width="40" src="https://cdn.simpleicons.org/css3">
   <img align="center" alt="Jay-JS" height="30" width="40" src="https://cdn.simpleicons.org/javascript">
@@ -15,11 +19,9 @@
   <img align="center" alt="Jay-Sanity" height="30" width="40" src="https://cdn.simpleicons.org/sanity">
   <img align="center" alt="Jay-Tailwindcss" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss">
   <img align="center" alt="Jay-Vercel" height="30" width="40" src="https://cdn.simpleicons.org/vercel/white">
-          
 </div>
 
-###
-
+### Connect with me:
 <div> 
   <a href="https://instagram.com/jasonballejo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ballejo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
