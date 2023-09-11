@@ -7,12 +7,15 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jay-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jay-HTML" height="30" width="40" src="https://cdn.simpleicons.org/html5">
+  <img align="center" alt="Jay-CSS" height="30" width="40" src="https://cdn.simpleicons.org/css3">
+  <img align="center" alt="Jay-JS" height="30" width="40" src="https://cdn.simpleicons.org/javascript">
   <img align="center" alt="Jay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jay-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Jay-Sanity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Jay-Next.js" height="30" width="40" src="https://cdn.simpleicons.org/nextdotjs/white">
+  <img align="center" alt="Jay-TypeScript" height="30" width="40" src="https://cdn.simpleicons.org/typescript">
+  <img align="center" alt="Jay-Sanity" height="30" width="40" src="https://cdn.simpleicons.org/sanity">
+  <img align="center" alt="Jay-Tailwindcss" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss">
+  <img align="center" alt="Jay-Vercel" height="30" width="40" src="https://cdn.simpleicons.org/vercel/white">
           
 </div>
 
