@@ -9,7 +9,6 @@
 ### Languages and Tools:
 <div style="display: inline_block">
   <img align="center" alt="Jay-HTML" height="30" width="40" src="https://cdn.simpleicons.org/html5">
-  <img align="center" alt="Jay-CSS" height="30" width="40" src="https://cdn.simpleicons.org/css3">
   <img align="center" alt="Jay-JS" height="30" width="40" src="https://cdn.simpleicons.org/javascript">
   <img align="center" alt="Jay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jay-Next.js" height="30" width="40" src="https://cdn.simpleicons.org/nextdotjs/white">
